@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frontendupload_0.5.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-21 21:01+0100\n"
+"PO-Revision-Date: 2012-04-21 21:13+0100\n"
+"Last-Translator: Wojciech Zieliński <wzielins@gmail.com>\n"
+"Language-Team: Wojciech Zieliński <wzielins@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../front-end-upload.php:148
+msgid "Front End Upload requires WordPress 3.2 or higher, it has been automatically deactivated."
+msgstr "Front End Upload wymaga WordPressa w wersji 3.2 lub nowszej, wtyczka zostanie automatycznie zdeaktywowana."
+
+#: ../front-end-upload.php:162
+msgid "Error: Unable to create upload storage directory. Please verify write permissions to the designated WordPress uploads directory. Front End Upload has been deactivated."
+msgstr "Błąd: Nie można utworzyć katalogu uploadu. Proszę sprawdzić prawa zapisu do katalogu uploadu WordPressa. Front End Upload zostanie zdeaktywowany."
+
+#: ../front-end-upload.php:343
+msgid "Invalid passcode"
+msgstr "Błędne hasło"
+
+#: ../front-end-upload.php:346
+msgid "Passcode"
+msgstr "Hasło"
+
+#: ../front-end-upload.php:360
+msgid "Select position"
+msgstr ""
+
+#: ../front-end-upload.php:376
+msgid "Your Fullname"
+msgstr ""
+
+#: ../front-end-upload.php:382
+msgid "Your Email Address"
+msgstr "Adres email"
+
+#: ../front-end-upload.php:388
+msgid "Message"
+msgstr "Wiadomość"
+
+#: ../front-end-upload.php:393
+msgid "You browser does not have Flash, Silverlight, Gears, BrowserPlus or HTML5 support; upload is not available."
+msgstr "Twoja przeglądarka nie wspiera Flash, Silverlight, Gears, BrowserPlus ani HTML5; upload plików jest niemożliwy."
+
+#: ../front-end-upload.php:399
+msgid "Submit"
+msgstr "Wyślij"
+
+#: ../front-end-upload.php:555
+msgid "An email is sent each time a Front End Upload is submitted. You can customize the recipients, the email itself, and other options here."
+msgstr "Email potwierdzający jest wysyłany za każdym razem gdy formularz Front End Upload jest wysyłany. Możesz tutaj ustawić odbiorców, adresy i inne opcje."
+
+#: ../front-end-upload.php:654
+msgid "Tags Available"
+msgstr "Dostępne Tagi"
+
+#: ../front-end-upload.php:659
+msgid "Tag"
+msgstr "Tag"
+
+#: ../front-end-upload.php:660
+msgid "Output"
+msgstr "Wynik"
+
+#: ../front-end-upload.php:666
+msgid "List of files uploaded"
+msgstr "Lista wysłanych plików"
+
+#: ../front-end-upload.php:670
+msgid "Email address of submitter"
+msgstr "Adres email osoby wysyłającej formularz"
+
+#: ../front-end-upload.php:674
+msgid "Message from submitter"
+msgstr "Wiadomość od osoby wysyłającej formularz"
+
+#: ../front-end-upload.php:678
+msgid "The time the email is sent"
+msgstr "Czas wysłania emaila potwierdzającego"
+
+#: ../front-end-upload.php:682
+msgid "The submitters IP address"
+msgstr "Adres IP osoby wysyłającej formularz"
+
+#: ../front-end-upload.php:910
+msgid "Please enter your name."
+msgstr "Proszę podać imię i nazwisko."
+
+#: ../front-end-upload.php:918
+msgid "You must enter a valid email address."
+msgstr "Proszę podać prawidłowy adres email."
+
+#: ../front-end-upload.php:938
+msgid "You must queue at least one file."
+msgstr "Proszę załączyć przynajmniej jeden plik."
+
